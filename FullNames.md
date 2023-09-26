@@ -1,5 +1,5 @@
 Here are the full names of our team:
-- Japneet Kaur
+- JK
 - Harshita Kohli
 - Ashish Dash
 - Parth
